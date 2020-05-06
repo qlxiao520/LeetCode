@@ -1,0 +1,11 @@
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.exe
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.deps.json
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.runtimeconfig.json
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.runtimeconfig.dev.json
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.dll
+D:\LeoXProj\LeetCode\bin\Debug\netcoreapp3.0\LeetCode.pdb
+D:\LeoXProj\LeetCode\obj\Debug\netcoreapp3.0\LeetCode.csprojAssemblyReference.cache
+D:\LeoXProj\LeetCode\obj\Debug\netcoreapp3.0\LeetCode.AssemblyInfoInputs.cache
+D:\LeoXProj\LeetCode\obj\Debug\netcoreapp3.0\LeetCode.AssemblyInfo.cs
+D:\LeoXProj\LeetCode\obj\Debug\netcoreapp3.0\LeetCode.dll
+D:\LeoXProj\LeetCode\obj\Debug\netcoreapp3.0\LeetCode.pdb
